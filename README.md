@@ -1,5 +1,8 @@
-# WebLatex
+# 👨‍💻 Alexis Biver's Resume
 
-PDF rendered here: https://alexisbiver.github.io/resume/PDF/resume_alexis_biver.pdf
+You can find the PDFs rendered here:
 
-Resume built using [WebLaTex](https://github.com/sanjib-sen/WebLaTex)
+- 🇬🇧/🇺🇸 English version [📄](https://alexisbiver.github.io/resume/PDF/resume_alexis_biver.pdf)
+- 🇫🇷 French version [📄](https://alexisbiver.github.io/resume/PDF/resume_alexis_biver_french.pdf)
+
+Built using [WebLaTex](https://github.com/sanjib-sen/WebLaTex)
